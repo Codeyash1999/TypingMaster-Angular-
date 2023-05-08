@@ -1,0 +1,17 @@
+/* Changing Colour On The Basis Whether Class Is Pending, Correct OR Incorrect */
+.pending{
+    color: gray;
+}
+
+.correct{
+    color: green;
+    font-weight: bold;
+}
+
+.incorrect{
+    color: red;
+}
+
+#mainTitle{
+    color: purple;
+}
